@@ -1,0 +1,3 @@
+[submodule "drivers/net/wireless/realtek/8821cu-20210916"]
+	path = drivers/net/wireless/realtek/8821cu-20210916
+	url = https://github.com/morrownr/8821cu-20210916.git
